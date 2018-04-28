@@ -1,5 +1,4 @@
 # hello-world
-qwertyasdf
 Zachary L. Harriss
 I am the very model of a moder Major General
 I'm full of information, both the simple and quadratical
